@@ -1,0 +1,10 @@
+thread
+executar
+thread
+executar
+thread
+executar
+thread
+executar
+thread
+executar
