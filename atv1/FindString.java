@@ -3,12 +3,8 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class FindString {
-    public static void main(String[] args) {
-        if (args.length != 2) {  // Verifica se o nome do arquivo foi passado como argumento
-            System.out.println("Uso: java FindString <caminho_do_arquivo> <substring>");
-            return;
-        }
-
+    public static void main(String[] args) {     
+        
         String filePath = args[0];  
         String substringToSearch = args[1];  
 
