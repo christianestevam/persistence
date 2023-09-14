@@ -1,0 +1,11 @@
+checksum
+cksum 2014_01-Traffic_Sensors_Fortaleza.csv > checksum.txt  0.58s user 0.01s system 92% cpu 0.638 total
+
+time
+md5sum 2014_01-Traffic_Sensors_Fortaleza.csv > md5sum.txt  0.28s user 0.02s system 92% cpu 0.319 total
+
+sha1
+sha1sum 2014_01-Traffic_Sensors_Fortaleza.csv > sha1sum.txt  0.33s user 0.02s system 92% cpu 0.381 total
+
+sha256sum
+sha256sum 2014_01-Traffic_Sensors_Fortaleza.csv > sha256sum.txt  0.90s user 0.03s system 92% cpu 1.008 total

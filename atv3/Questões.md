@@ -10,6 +10,5 @@ Exemplo: time md5sum iris.csv
 
 arquivo config.properties
 arquivo = meu_arquivo.txt
-linha_inicial = 1
-linha_final = 3
+mas
 Depois, escreva uma classe Java que exibe da linha_inicial até a linha_final do arquivo, conforme definidos no arquivo de propriedades config.properties.
