@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "modulo1/atv5",
+        "atv5",
+        "atv4",
+        "atv3",
+        "atv2",
+        "atv1",
+        "modulo2/product/src/main/java/com/application"
+    ]
+}
